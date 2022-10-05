@@ -1,0 +1,15 @@
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\bin\Debug\net6.0\operadores para c#.exe
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\bin\Debug\net6.0\operadores para c#.deps.json
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\bin\Debug\net6.0\operadores para c#.runtimeconfig.json
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\bin\Debug\net6.0\operadores para c#.dll
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\bin\Debug\net6.0\operadores para c#.pdb
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.csproj.AssemblyReference.cache
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.AssemblyInfoInputs.cache
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.AssemblyInfo.cs
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.csproj.CoreCompileInputs.cache
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.dll
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\refint\operadores para c#.dll
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.pdb
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\operadores para c#.genruntimeconfig.cache
+C:\Users\felyp\OneDrive\Documentos\estudos\recoode\operadores para c#\obj\Debug\net6.0\ref\operadores para c#.dll
